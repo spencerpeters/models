@@ -1,0 +1,25 @@
+cifar10.py
+
+51: decrease batch size
+
+53: different dir
+
+55: half size floats
+
+59-62: update dataset consts
+
+66-69: revisit learning rate consts
+
+155: change distorted inputs to use different distortions
+
+179-180: change cifar_10input name
+
+cifar10_train.py:
+
+44: import cifar10 (imports file?)
+
+48-55: change directories and constants
+
+cifar10_input.py:
+
+180: random brightness and random contrast consider
